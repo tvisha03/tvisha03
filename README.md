@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tvisha
 
-<!--
-**tvisha03/tvisha03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 **B.Tech CSE | 3rd Year**  
+- 🔍 **Passionate about AI & ML, and Software Development**   
+- 📚 **Learning:** Deep Learning, Generative AI 
+- 💼 **Actively looking for:** Internships in AI/ML & Software Development  
+- ⚡ **Hackathon Winner | AI Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 **Technical Skills**  
+
+### 💻 **Programming Languages:**  
+`Python` `Java` `C` `C++` `JavaScript` `SQL` `HTML` `CSS`  
+
+### 🛠️ **Developer Tools:**  
+`VS Code` `Google Colab` `Jupyter Notebook` `Git` `GitHub`  
+
+### 🌐 **Web Development:**  
+`ReactJS` `NodeJS` `ExpressJS` `Bootstrap`  
+
+### 🤖 **Data Science & AI:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `TensorFlow` `Scikit-learn`  
+
+### 🗄️ **Databases:**  
+`MySQL`  
+
+---
+
+
+
+
+
+## 📫 **Connect with Me**  
+
+[![LinkedIn](https://www.linkedin.com/in/tvisha-khanna-62b603275/)  
+
+---
+
+🚀 **Let’s connect and build something amazing together!** 💻🔥
