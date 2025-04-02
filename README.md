@@ -34,7 +34,8 @@
 
 ## 📫 **Connect with Me**  
 
-[![LinkedIn](https://www.linkedin.com/in/tvisha-khanna-62b603275/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tvisha-khanna-62b603275/)  
+
 
 ---
 
