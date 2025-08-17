@@ -1,6 +1,33 @@
-# 💫 About Me:
-👋 Hi there! I'm a 3rd-year B.Tech CSE student passionate about tech and always eager to learn something new.<br><br>🔭 I’m currently working on AI/ML and deep learning projects, and I love exploring new technologies.<br>👯 I’m looking to collaborate on exciting projects in AI/ML, frontend web development, and data science.<br>🤝 I’m looking for internship opportunities and mentorship to grow as a developer and researcher.<br>🌱 I’m currently learning about cloud computing, deep learning, and frontend frameworks like React.<br>💻 I enjoy building things — from web apps to smart ML models — and turning ideas into real-world solutions.<br>🏆 I’ve won a few hackathons and love participating in tech competitions.<br>💬 Ask me about machine learning, web dev, or any tech you're curious about — I’d love to connect!<br>⚡ Fun fact: I love exploring random Wikipedia pages — I probably know way too much about space and sharks.
+# 👋 Hi, I’m Tvisha Khanna  
 
+I’m a **Computer Science undergrad (MUJ’26)** passionate about **developing intelligent systems with a focus on ML, NLP, and LLMs**.  
+Skilled in **RAG pipelines, LangChain, and cloud architectures on AWS**, I enjoy building solutions that combine **machine learning, backend engineering, and scalable design** to solve real-world problems.  
+
+---
+## 🚀 What I Do  
+- **Machine Learning & AI** → Transformer-based NLP (BERT, RoBERTa), GANs for anomaly detection, federated learning, sentiment analysis.  
+- **Backend Development** → FastAPI, Flask, REST APIs, scalable data pipelines, authentication systems (JWT).  
+- **Frontend Development** → React, Next.js, Tailwind CSS — building responsive and user-friendly interfaces.  
+- **Databases** → PostgreSQL, MySQL, ChromaDB — relational + vector storage.  
+- **Cloud & Tools** → Docker, Git/GitHub, Linux, Streamlit.  
+
+---
+
+## 🛠️ Highlight Projects  
+- **[BloomthAI](#)** → AI-powered mental health assistant (RAG + FastAPI + PostgreSQL).  
+- **[ContractIQ](#)** → Legal document analysis with hybrid NER + risk scoring.  
+- **[DefectGAN](#)** → Industrial anomaly detection with GAN-generated defects.  
+- **[MBFT-Lite](#)** → Federated phishing detection (TinyBERT + XGBoost).  
+- **[CyberShield](#)** → Chrome extension for real-time cybersecurity (**IIT Ropar Hackathon, 2nd place**).  
+
+---
+
+## 📈 Why Me  
+- Strong foundation in **CS fundamentals** (Dean’s List, 9.43 CGPA).  
+- Experience in **end-to-end product development** — from research to deployment.  
+- Passionate about **AI for impact**, hackathons, and building scalable solutions.  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tvisha-khanna-62b603275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tvishakhanna1557@gmail.com) 
