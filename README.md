@@ -14,11 +14,11 @@ Skilled in **RAG pipelines, LangChain, and cloud architectures on AWS**, I enjoy
 ---
 
 ## 🛠️ Highlight Projects  
-- **[BloomthAI](#)** → AI-powered mental health assistant (RAG + FastAPI + PostgreSQL).  
-- **[ContractIQ](#)** → Legal document analysis with hybrid NER + risk scoring.  
-- **[DefectGAN](#)** → Industrial anomaly detection with GAN-generated defects.  
-- **[MBFT-Lite](#)** → Federated phishing detection (TinyBERT + XGBoost).  
-- **[CyberShield](#)** → Chrome extension for real-time cybersecurity (**IIT Ropar Hackathon, 2nd place**).  
+- **[BloomthAI](https://github.com/tvisha03/mental-health-assistant)** → AI-powered mental health assistant (RAG + FastAPI + PostgreSQL).  
+- **[ContractIQ](https://github.com/tvisha03/ContractIQ)** → Legal document analysis with hybrid NER + risk scoring.  
+- **[DefectGAN](https://github.com/tvisha03/synthetic_data_augmentation_using_GANs)** → Industrial anomaly detection with GAN-generated defects.  
+- **[MBFT-Lite](https://github.com/tvisha03/MBFT-Lite-Project-V2-)** → Federated phishing detection (TinyBERT + XGBoost).  
+- **[CyberShield](https://github.com/tvisha03/Team101)** → Chrome extension for real-time cybersecurity (**IIT Ropar Hackathon, 2nd place**).  
 
 ---
 
